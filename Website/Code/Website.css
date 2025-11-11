@@ -1266,7 +1266,7 @@ section#skills li {
 
 /* University Name */
 .ed-card .company-name {
-    text-align: left;
+    text-align: flex-start;
     font-size: 15px;
     color: #dcdcdc;
     margin-top: -5px; /* Reduced space between title and university name */
